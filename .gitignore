@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+data/healthcare.db
+.DS_Store
+data/insurance.csv
+outputs/patients_enriched.csv
