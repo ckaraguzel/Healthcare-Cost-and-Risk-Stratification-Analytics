@@ -48,3 +48,14 @@ The Tableau dashboard provides:
 - Cost breakdown by smoking status, age group, and BMI
 - Scatter plot of age vs healthcare costs
 - Interactive filters for demographic exploration
+
+## Impact
+This project demonstrates how data analytics can:
+- Identify high-cost populations
+- Support preventive healthcare strategies
+- Enable targeted interventions to reduce overall costs
+
+## Future Work
+- Incorporate time-series healthcare data
+- Build predictive models for cost forecasting
+- Extend analysis to real-world claims datasets
