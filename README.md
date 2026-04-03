@@ -1,6 +1,5 @@
 # Healthcare Cost & Risk Stratification Analytics
 A data analytics project analyzing healthcare cost drivers and patient risk factors, built with **SQL**, **Python**, and an interactive **Plotly Dash** dashboard.
-Developed as a portfolio project for a Health Informatics Analyst role.
 
 ---
 
