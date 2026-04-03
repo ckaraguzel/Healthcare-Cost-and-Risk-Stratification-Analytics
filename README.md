@@ -80,8 +80,8 @@ python python/04_dashboard.py
 ---
 
 ## Key Insights
-- **Smoking is the #1 cost driver** — smokers incur ~3.8× higher annual costs than non-smokers
-- **Obesity amplifies cost when combined with smoking** — the high-risk cohort (smoker + obese) represents ~11% of patients but drives ~34% of total costs
+- **Smoking is the #1 cost driver** : smokers incur ~3.8× higher annual costs than non-smokers
+- **Obesity amplifies cost when combined with smoking** : the high-risk cohort (smoker + obese) represents ~11% of patients but drives ~34% of total costs
 - **Patients aged 50+** represent the highest average cost group, significantly above the population mean
 - **A small high-risk subset** contributes disproportionately to total healthcare spending — a key target for preventive intervention
 
@@ -89,12 +89,12 @@ python python/04_dashboard.py
 
 ## Dashboard Features
 The interactive Plotly Dash dashboard provides:
-- **KPI cards** — Total patients, avg cost, smoker multiplier, high-risk share
-- **Scatter plot** — Age vs charges colored by smoking status
-- **Bar charts** — Cost by smoking status, age group, BMI category, region
-- **Heatmap** — Combined risk matrix (smoking × BMI)
-- **Donut chart** — High-risk vs standard-risk cost share
-- **Live filter** — Toggle smoking status to explore subgroups interactively
+- **KPI cards** : Total patients, avg cost, smoker multiplier, high-risk share
+- **Scatter plot** : Age vs charges colored by smoking status
+- **Bar charts** : Cost by smoking status, age group, BMI category, region
+- **Heatmap** : Combined risk matrix (smoking × BMI)
+- **Donut chart** : High-risk vs standard-risk cost share
+- **Live filter** : Toggle smoking status to explore subgroups interactively
 
 ---
 
