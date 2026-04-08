@@ -83,7 +83,7 @@ python python/04_dashboard.py
 - **Smoking is the #1 cost driver** : smokers incur ~3.8× higher annual costs than non-smokers
 - **Obesity amplifies cost when combined with smoking** : the high-risk cohort (smoker + obese) represents ~11% of patients but drives ~34% of total costs
 - **Patients aged 50+** represent the highest average cost group, significantly above the population mean
-- **A small high-risk subset** contributes disproportionately to total healthcare spending — a key target for preventive intervention
+- **A small high-risk subset** contributes disproportionately to total healthcare spending : a key target for preventive intervention
 
 ---
 
